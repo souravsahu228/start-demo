@@ -1,5 +1,0 @@
-file 4 line 1
-line 2
-line 3 to be deleteed
-line 4 to be deleted
-delete line number 5
