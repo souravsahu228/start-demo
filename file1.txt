@@ -4,3 +4,5 @@ first line
 6th line newly added
 7th line
 8th line
+line 9
+line 10
